@@ -1,0 +1,1102 @@
+==============================================================================================
+
+   selected_data.person 'human subject'
+
+   "21 in training data, 9 in test data"
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: integer
+   Measurement: interval
+
+            Min:   1.000
+            Max:  30.000
+           Mean:  16.146
+       Std.Dev.:   8.679
+       Skewness:  -0.123
+       Kurtosis:  -1.187
+
+   Remark:
+
+       30 human subjects, 6 physical activities
+
+==============================================================================================
+
+   selected_data.activity 'physical activities'
+
+   "e.g., walking, walking_upstairs, etc."
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: integer
+   Measurement: nominal
+
+          Values and labels    N    Percent 
+                                            
+   1   'WALKING'            1722   16.7 16.7
+   2   'WALKING_UPSTAIRS'   1544   15.0 15.0
+   3   'WALKING_DOWNSTAIRS' 1406   13.7 13.7
+   4   'SITTING'            1777   17.3 17.3
+   5   'STANDING'           1906   18.5 18.5
+   6   'LAYING'             1944   18.9 18.9
+
+   Remark:
+
+       30 human subjects, 6 physical activities
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometer.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.274
+       Std.Dev.:   0.068
+       Skewness:  -3.490
+       Kurtosis:  50.595
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometer.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:   -1.000
+            Max:    1.000
+           Mean:   -0.018
+       Std.Dev.:    0.037
+       Skewness:   -0.429
+       Kurtosis:  181.544
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometer.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.109
+       Std.Dev.:   0.053
+       Skewness:   1.759
+       Kurtosis:  84.130
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometer.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.608
+       Std.Dev.:   0.439
+       Skewness:   0.637
+       Kurtosis:  -0.925
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometer.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.510
+       Std.Dev.:   0.500
+       Skewness:   0.435
+       Kurtosis:  -1.326
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometer.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.613
+       Std.Dev.:   0.404
+       Skewness:   0.661
+       Kurtosis:  -0.656
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometer.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.669
+       Std.Dev.:   0.515
+       Skewness:  -1.629
+       Kurtosis:   0.917
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometer.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.004
+       Std.Dev.:   0.379
+       Skewness:   1.167
+       Kurtosis:   0.406
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometer.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.092
+       Std.Dev.:   0.334
+       Skewness:   0.715
+       Kurtosis:   0.673
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometer.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:   -1.000
+            Max:    1.000
+           Mean:   -0.965
+       Std.Dev.:    0.078
+       Skewness:   11.134
+       Kurtosis:  183.961
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometer.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:   -1.000
+            Max:    1.000
+           Mean:   -0.954
+       Std.Dev.:    0.085
+       Skewness:    8.782
+       Kurtosis:  123.347
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometer.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.939
+       Std.Dev.:   0.102
+       Skewness:   6.928
+       Kurtosis:  76.993
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerk.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.079
+       Std.Dev.:   0.176
+       Skewness:   0.113
+       Kurtosis:   4.727
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerk.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.008
+       Std.Dev.:   0.165
+       Skewness:  -0.013
+       Kurtosis:   4.818
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerk.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.005
+       Std.Dev.:   0.156
+       Skewness:  -0.083
+       Kurtosis:   5.262
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerk.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.640
+       Std.Dev.:   0.409
+       Skewness:   0.665
+       Kurtosis:  -0.895
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerk.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.608
+       Std.Dev.:   0.433
+       Skewness:   0.643
+       Kurtosis:  -0.976
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerk.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.763
+       Std.Dev.:   0.278
+       Skewness:   1.050
+       Kurtosis:   0.499
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscope.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.031
+       Std.Dev.:   0.183
+       Skewness:  -0.159
+       Kurtosis:   3.523
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscope.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.075
+       Std.Dev.:   0.134
+       Skewness:   0.194
+       Kurtosis:   5.922
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscope.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:   0.088
+       Std.Dev.:   0.135
+       Skewness:  -0.043
+       Kurtosis:  10.083
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscope.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.721
+       Std.Dev.:   0.301
+       Skewness:   0.795
+       Kurtosis:  -0.240
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscope.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.683
+       Std.Dev.:   0.357
+       Skewness:   0.999
+       Kurtosis:   0.270
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscope.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.654
+       Std.Dev.:   0.373
+       Skewness:   0.778
+       Kurtosis:  -0.207
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerk.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.097
+       Std.Dev.:   0.128
+       Skewness:   0.139
+       Kurtosis:   6.439
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerk.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.042
+       Std.Dev.:   0.114
+       Skewness:   0.048
+       Kurtosis:   8.184
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerk.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.055
+       Std.Dev.:   0.129
+       Skewness:   0.052
+       Kurtosis:   6.771
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerk.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.731
+       Std.Dev.:   0.304
+       Skewness:   0.878
+       Kurtosis:  -0.015
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerk.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.786
+       Std.Dev.:   0.273
+       Skewness:   1.600
+       Kurtosis:   3.091
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerk.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.740
+       Std.Dev.:   0.302
+       Skewness:   0.960
+       Kurtosis:   0.269
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.548
+       Std.Dev.:   0.467
+       Skewness:   0.408
+       Kurtosis:  -1.408
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.591
+       Std.Dev.:   0.429
+       Skewness:   0.617
+       Kurtosis:  -0.909
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometerMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.548
+       Std.Dev.:   0.467
+       Skewness:   0.408
+       Kurtosis:  -1.408
+
+==============================================================================================
+
+   selected_data.timeGravityAccelerometerMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.591
+       Std.Dev.:   0.429
+       Skewness:   0.617
+       Kurtosis:  -0.909
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerkMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.649
+       Std.Dev.:   0.389
+       Skewness:   0.594
+       Kurtosis:  -1.045
+
+==============================================================================================
+
+   selected_data.timeBodyAccelerometerJerkMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.628
+       Std.Dev.:   0.417
+       Skewness:   0.675
+       Kurtosis:  -0.868
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.605
+       Std.Dev.:   0.400
+       Skewness:   0.517
+       Kurtosis:  -1.075
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.663
+       Std.Dev.:   0.349
+       Skewness:   0.811
+       Kurtosis:  -0.164
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerkMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.762
+       Std.Dev.:   0.277
+       Skewness:   0.986
+       Kurtosis:   0.426
+
+==============================================================================================
+
+   selected_data.timeBodyGyroscopeJerkMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.778
+       Std.Dev.:   0.272
+       Skewness:   1.464
+       Kurtosis:   2.538
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometer.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.623
+       Std.Dev.:   0.421
+       Skewness:   0.618
+       Kurtosis:  -0.989
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometer.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.537
+       Std.Dev.:   0.482
+       Skewness:   0.493
+       Kurtosis:  -1.231
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometer.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.665
+       Std.Dev.:   0.359
+       Skewness:   0.736
+       Kurtosis:  -0.474
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometer.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.603
+       Std.Dev.:   0.447
+       Skewness:   0.676
+       Kurtosis:  -0.811
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometer.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.528
+       Std.Dev.:   0.480
+       Skewness:   0.443
+       Kurtosis:  -1.297
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometer.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.618
+       Std.Dev.:   0.399
+       Skewness:   0.715
+       Kurtosis:  -0.473
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerJerk.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.657
+       Std.Dev.:   0.390
+       Skewness:   0.690
+       Kurtosis:  -0.814
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerJerk.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.629
+       Std.Dev.:   0.407
+       Skewness:   0.635
+       Kurtosis:  -0.983
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerJerk.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.744
+       Std.Dev.:   0.298
+       Skewness:   1.041
+       Kurtosis:   0.490
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerJerk.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.655
+       Std.Dev.:   0.393
+       Skewness:   0.675
+       Kurtosis:  -0.870
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerJerk.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.612
+       Std.Dev.:   0.434
+       Skewness:   0.687
+       Kurtosis:  -0.863
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerJerk.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.781
+       Std.Dev.:   0.260
+       Skewness:   1.109
+       Kurtosis:   0.735
+
+==============================================================================================
+
+   selected_data.frequencyBodyGyroscope.mean...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.672
+       Std.Dev.:   0.351
+       Skewness:   0.740
+       Kurtosis:  -0.377
+
+==============================================================================================
+
+   selected_data.frequencyBodyGyroscope.mean...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.706
+       Std.Dev.:   0.336
+       Skewness:   1.072
+       Kurtosis:   0.644
+
+==============================================================================================
+
+   selected_data.frequencyBodyGyroscope.mean...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.644
+       Std.Dev.:   0.382
+       Skewness:   0.699
+       Kurtosis:  -0.592
+
+==============================================================================================
+
+   selected_data.frequencyBodyGyroscope.std...X
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.739
+       Std.Dev.:   0.286
+       Skewness:   0.869
+       Kurtosis:  -0.017
+
+==============================================================================================
+
+   selected_data.frequencyBodyGyroscope.std...Y
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.674
+       Std.Dev.:   0.370
+       Skewness:   1.075
+       Kurtosis:   0.536
+
+==============================================================================================
+
+   selected_data.frequencyBodyGyroscope.std...Z
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.690
+       Std.Dev.:   0.337
+       Skewness:   0.892
+       Kurtosis:   0.281
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.586
+       Std.Dev.:   0.445
+       Skewness:   0.653
+       Kurtosis:  -0.840
+
+==============================================================================================
+
+   selected_data.frequencyBodyAccelerometerMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.660
+       Std.Dev.:   0.355
+       Skewness:   0.652
+       Kurtosis:  -0.788
+
+==============================================================================================
+
+   selected_data.frequencyBodyBodyAccelerometerJerkMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.621
+       Std.Dev.:   0.425
+       Skewness:   0.680
+       Kurtosis:  -0.838
+
+==============================================================================================
+
+   selected_data.frequencyBodyBodyAccelerometerJerkMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.640
+       Std.Dev.:   0.406
+       Skewness:   0.725
+       Kurtosis:  -0.751
+
+==============================================================================================
+
+   selected_data.frequencyBodyBodyGyroscopeMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.697
+       Std.Dev.:   0.324
+       Skewness:   0.897
+       Kurtosis:   0.159
+
+==============================================================================================
+
+   selected_data.frequencyBodyBodyGyroscopeMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.700
+       Std.Dev.:   0.310
+       Skewness:   0.897
+       Kurtosis:   0.199
+
+==============================================================================================
+
+   selected_data.frequencyBodyBodyGyroscopeJerkMagnitude.mean..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.780
+       Std.Dev.:   0.268
+       Skewness:   1.398
+       Kurtosis:   2.194
+
+==============================================================================================
+
+   selected_data.frequencyBodyBodyGyroscopeJerkMagnitude.std..
+
+----------------------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+            Min:  -1.000
+            Max:   1.000
+           Mean:  -0.792
+       Std.Dev.:   0.259
+       Skewness:   1.619
+       Kurtosis:   3.382
+
